@@ -1,0 +1,9 @@
+[package]
+name = "dual-colors"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hashbrown = { version = "0.14.5", features = ["raw"] }
+image = "0.25.2"
+rand = "0.8.5"
